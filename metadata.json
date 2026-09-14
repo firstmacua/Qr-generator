@@ -1,0 +1,6 @@
+{
+  "name": "QR Code Generator & Analytics",
+  "description": "Генератор кастомизируемых QR-кодов с добавлением логотипа, настройкой цветов и динамическими ссылками для отслеживания статистики переходов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
